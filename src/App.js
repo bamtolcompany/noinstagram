@@ -59,6 +59,7 @@ function App() {
     </a>
       </div>
       <main>
+        <h2>네이버 검색</h2>
         <input
           type="search"
           placeholder="네이버에서 검색하세요"
@@ -70,7 +71,7 @@ function App() {
             }
           }}
         />
-
+        <h2 className='service'>추천 서비스</h2>
         <div className="sec">
           <a href="https://50plus.or.kr/">일자리 찾기</a>
           <a href="https://edu.nid.or.kr/common/greeting.do">치매 예방</a>
@@ -85,6 +86,8 @@ function App() {
 
         <div className='st'>
           <p>바로가기</p>
+          <a href='https://naver.com'>바로가기 - 네이버 | </a>
+          <a href='https://youtube.com'>바로가기 - 유튜브 | </a>
           {customDomain && customTitle && (
             <a href={customDomain} target="_blank" rel="noopener noreferrer">
               바로가기 - {customTitle}
