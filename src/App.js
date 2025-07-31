@@ -75,7 +75,7 @@ function App() {
         <div className="sec">
           <a href="https://50plus.or.kr/">일자리 찾기</a>
           <a href="https://edu.nid.or.kr/common/greeting.do">치매 예방</a>
-          <a href="https://noinstagram.vercel.app">디지털 학습</a>
+          <a href="https://noinstagram.vercel.app/learn">디지털 학습</a>
           <a href="https://www.50plus.or.kr/detail.do?id=3192181">취미 찾기</a>
         </div>
 
