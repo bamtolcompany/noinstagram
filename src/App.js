@@ -48,6 +48,7 @@ function App() {
         <div><a href="https://finance.naver.com/">증권</a></div>
         <div><a href="https://noinstagram.vercel.app/support.html/">도움말</a></div>
         <div><a href="https://noinstagram.vercel.app/explanation.html">사이트 소개</a></div>
+        <div><a href="https://noinstagram.vercel.app/privacy.html">개인정보 처리방침</a></div>
       </nav>
 
       <header>
@@ -75,7 +76,7 @@ function App() {
         <div className="sec">
           <a href="https://50plus.or.kr/">일자리 찾기</a>
           <a href="https://edu.nid.or.kr/common/greeting.do">치매 예방</a>
-          <a href="https://noinstagram.vercel.app/learn">디지털 학습</a>
+          <a href="https://www.디지털배움터.kr/entry.do">디지털 학습</a>
           <a href="https://www.50plus.or.kr/detail.do?id=3192181">취미 찾기</a>
         </div>
 
