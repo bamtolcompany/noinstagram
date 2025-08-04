@@ -77,7 +77,7 @@ function App() {
           <a href="https://50plus.or.kr/">일자리 찾기</a>
           <a href="https://edu.nid.or.kr/common/greeting.do">치매 예방</a>
           <a href="https://www.디지털배움터.kr/entry.do">디지털 학습</a>
-          <a href="https://www.50plus.or.kr/detail.do?id=3192181">취미 찾기</a>
+          <a href="articles.html">필독 글 보러가기</a>
         </div>
 
         <div className='realtime-search'>
